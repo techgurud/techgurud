@@ -37,6 +37,20 @@ I am a Test Automation Engineer <img src="https://media.giphy.com/media/v1.Y2lkP
 
 __________________________________________________________________________________________________________________________________________________________________
 
+## 🚀 Technologies & Tools
+
+- **Programming Languages**: Python, TypeScript, Java , C#
+- **Automation Frameworks and Tools used**: 
+- **Linear scripting framework**: Selenium IDE, QTP , Katalon Studio
+- **Hybrid Framework (Modular + Data driven) testing framework**: Selenium, Playwright, Cypress, Testcafe, Puppeteer, Appium , Robot Framework.
+- **Keyword driven framework**: Katalon Studio, Test complete.
+- **Behavior- driven development framework**: Cucumber, Speckflow, Jbehave.
+- **CI/CD**: Jenkins, AzureDevops , Github Actions.
+- **Crossbrowser Testing tools**: Lambdatest, Browser Stack.
+- **Performance Testing**: Jmeter, Blazemeter, Loadrunner, Gatling.
+- **API Testing**: Postman, RestAssured, Katalon studio.
+- **Security Testing (Vulnerability scanning)**: OWASP ZAP, BurpSuite.
+__________________________________________________________________________________________________________________________________________________________________
 :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -52,6 +66,11 @@ ________________________________________________________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure DevOps Pipeline" alt="Azure DevOps Pipeline" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
 </div>
 
 __________________________________________________________________________________________________________________________________________________________________
