@@ -28,9 +28,11 @@ ________________________________________________________________________________
 
 👨‍💻: About Me:
 
-I am a Test Automation Engineer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljODMyZWM3MmUwYTNhOWFmY2VmZDlkNDlmN2E2MTc3OTQ0OWI2MyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="30"> from India.
+As a Test Automation Architect, I'm passionate about building scalable, maintainable, and full-stack frameworks that go beyond UI to cover API, mobile, and CI/CD integrations.
 
-- :telescope: I’m working as a QA Manager and contributing to frameworks designed to test web and mobile applications.
+Here’s a snapshot of the best-in-class combinations by language:<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljODMyZWM3MmUwYTNhOWFmY2VmZDlkNDlmN2E2MTc3OTQ0OWI2MyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m working as a Automation QA Manager and contributing to frameworks designed to test web, Api and mobile applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I explore new automation tools and solve problems on Linkedin community groups, stackoverflow and read tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dharamraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharamrajafzalpurkar/)
